@@ -1,5 +1,11 @@
 # lab11_php_ci4
 
+| Data diri| 
+|-----------------|
+| Nama : Alfian Nur Rizki  | 
+| Kelas : TI 23.A6 | 
+| NIM : 312310665 | 
+
 ## Praktikum 1 : PHP Framework (Codeigniter)
 
 <h1>Persiapan</h1>
