@@ -6,9 +6,9 @@
 | Kelas : TI 23.A6 | 
 | NIM : 312310665 | 
 
-## Praktikum 1 : PHP Framework (Codeigniter)
+<h1> Praktikum 1 : PHP Framework (Codeigniter) </h1>
 
-<h1>Persiapan</h1>
+## Persiapan
 
 <p>Sebelum memulai menggunakan Framework Codeigniter, perlu dilakukan konfigurasi pada
 webserver. Beberapa ekstensi PHP perlu diaktifkan untuk kebutuhan pengembangan
